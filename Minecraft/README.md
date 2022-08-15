@@ -10,7 +10,7 @@ Blocks can be placed and removed with mouse buttons. You cannot select the block
 
 - https://github.com/MatteoConcutelli/Unity_projects/blob/77062a09912a62ec8b0da3c6e110ef327ad18074/Minecraft/Assets/Scripts/GameManager.cs#L101
 
-In this case the stone block is selected.
+In this case the wood block is selected.
 
 All defined block types are in :
 - https://github.com/MatteoConcutelli/Unity_projects/blob/d5294ff662bfbad3a56543369769c13e95c9f670/Minecraft/Assets/Scripts/Blocks.cs#L18-L22
