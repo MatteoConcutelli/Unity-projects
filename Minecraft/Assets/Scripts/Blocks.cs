@@ -19,7 +19,7 @@ public class Blocks
     public block_type Grass_block;
     public block_type Stone_block;
     public block_type Wood_block;
-    public block_type Mattoni_block;
+    public block_type Brick_block;
 
     public Blocks() {
 
@@ -55,13 +55,13 @@ public class Blocks
         Wood_block.back = 4;
         Wood_block.ID = 3;
 
-        Mattoni_block.top = 7;
-        Mattoni_block.bot = 7;
-        Mattoni_block.left = 7;
-        Mattoni_block.right = 7;
-        Mattoni_block.front = 7;
-        Mattoni_block.back = 7;
-        Mattoni_block.ID = 4;
+        Brick_block.top = 7;
+        Brick_block.bot = 7;
+        Brick_block.left = 7;
+        Brick_block.right = 7;
+        Brick_block.front = 7;
+        Brick_block.back = 7;
+        Brick_block.ID = 4;
 
     }
 }
