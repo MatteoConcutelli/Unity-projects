@@ -8,12 +8,12 @@ This is a little copy of Minecraft. It is generated, only, a world 128*128, but 
 
 Blocks can be placed and removed with mouse buttons. You cannot select the blocks to use unless they are changed in the code of the script : 
 
-- https://github.com/MatteoConcutelli/Unity_projects/blob/4320a829a928f20ef42cd44d8327784c8b3f1fca/Minecraft/Assets/Scripts/GameManager.cs#L101
+- https://github.com/MatteoConcutelli/Unity_projects/blob/77062a09912a62ec8b0da3c6e110ef327ad18074/Minecraft/Assets/Scripts/GameManager.cs#L101
 
 In this case the stone block is selected.
 
 All defined block types are in :
-- https://github.com/MatteoConcutelli/Unity_projects/blob/a1be1ed673b4aff5db9813c8910990a23272908c/Minecraft/Assets/Scripts/Blocks.cs#L16
+- https://github.com/MatteoConcutelli/Unity_projects/blob/77062a09912a62ec8b0da3c6e110ef327ad18074/Minecraft/Assets/Scripts/Blocks.cs#L18-L22
 ---
 ### Optimizations
 
