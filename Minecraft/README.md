@@ -1,6 +1,5 @@
 # Minecraft Clone 🧱
-
-![Minecraft Clone](https://github.com/MatteoConcutelli/Unity_projects/blob/b74ce4275d90bc9e13e265fdf0fc33d66c10c8f9/Minecraft/img.jpg)
+<img src="https://github.com/MatteoConcutelli/Unity_projects/blob/b74ce4275d90bc9e13e265fdf0fc33d66c10c8f9/Minecraft/img.jpg" width="500" alt="Minecraft Clone" />
 
 This is a simplified Minecraft clone made with Unity. It generates a 128x128 block world, but you can modify this value in the *World.cs* script. 
 
